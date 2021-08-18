@@ -1,0 +1,113 @@
+  
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+
+*{
+    font-family: 'Comfortaa', cursive;
+    margin: 0;
+    padding: 0;
+}
+body{
+    color: rgb(0, 0, 0);
+    background-color:rgb(223, 242, 252);
+}
+.nav-bar{
+    background-color: #7FC8A9;
+    color: black;
+    padding: 1rem;
+    font-size: 1.8rem;
+    font-weight: bold;
+    text-shadow: 0 0 5px #ffffff;
+}
+.fun-with-triangle{
+    font-size: 2.5rem;
+    font-family: cursive;
+}
+.links{
+    text-align: right;
+}
+.container-title{
+    padding: 1.5rem;
+    text-align: center;
+    font-size: 3rem;
+    text-shadow: 0 0 5px #ffffff;
+}
+.questioin-continer
+{
+    padding: 1.5rem;
+    font-size: 2rem;
+}
+.quizAnswerBtn{
+    margin: 1.5rem;
+    width: 20%;
+}
+.main-continer
+{ 
+   margin: 4rem;
+   padding: 2rem;
+   font-size: 2.5rem;
+}
+.container
+{
+    padding: 3rem;
+    margin: 3rem;
+    font-size: 2rem;
+    border-radius: 1rem;
+    border: 0.3rem solid;
+}
+input{
+    padding: 0.5rem;
+    border-radius: 0.3rem ;
+
+}
+.input-container{
+    font-size: 1.5rem;
+    margin: 1rem;
+    padding: 1rem 1rem;
+    width: 50%;
+    border: 2px solid rgb(1, 64, 108);
+}
+label
+{  
+    font-weight: bold;
+    font-size: large;
+    margin: 2rem;
+    padding: 1rem;
+}
+li{
+    padding:1.5rem;
+}
+.container-description{
+    padding: 0.8rem;
+}
+
+a{
+    text-decoration: none;
+    padding-right: 4rem;
+    color: black;
+    text-shadow: 0 0 5px #ffffff;   
+}
+#output{
+    padding: 1rem;
+}
+button{
+    padding: 1rem;
+    border-radius: 0.8rem;
+    font-size: 1.5em;
+    font-weight: bold;
+    padding: 0.5rem;
+    margin: 1rem 1rem;
+    background-color: rgb(1, 64, 108);
+    width: 53%;
+}
+
+.footer{
+    text-align: center;
+}
+.footer-img{
+    width: 80px;
+    height: 60px;
+}
+.footer-title{
+    text-align: center;
+    padding: 1.4rem;
+}
